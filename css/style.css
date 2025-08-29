@@ -254,6 +254,10 @@ strong {
   margin-inline: auto;
 }
 
+section {
+  scroll-margin-top: 70px; /* navigation bar height */
+}
+
 .even-columns {
   display: grid;
   gap: 1rem;
