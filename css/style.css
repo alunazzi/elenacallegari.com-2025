@@ -29,7 +29,7 @@
 
   --ff-primary: "Libre Baskerville", serif;
   --ff-secondary: "Source Sans 3", sans-serif;
-  --ff-logo: "Nunito", sans-serif;;
+  --ff-logo: "Nunito", sans-serif;
 
   --ff-heading: var(--ff-primary);
   --ff-content: var(--ff-secondary);
@@ -841,7 +841,7 @@ footer .even-columns {
   }
 
   .elena-callegari-bio {
-    margin-top: 50px;!important;
+    margin-top: 50px !important;
   }
 
 }
