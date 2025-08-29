@@ -489,7 +489,7 @@ hr {
 .a-mail{
   margin-block: var(--size-500) 0;
   font-size: var(--size-700);
-  animation: bounce 2s infinite;
+  animation: pulse 2s infinite;
   animation-timing-function: cubic-bezier(.8, 0, 1, 1);
   display:inline-block;
 }
