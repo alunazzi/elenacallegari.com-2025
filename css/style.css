@@ -818,7 +818,12 @@ footer .even-columns {
   .dither-mediaquery {
     background-image: var(--background-image-url-noise);
   }
-
+  
+  .hero-image{
+    max-width: 20rem;
+    max-height: 20rem;
+  }
+  
   .hero-image.visible {
     opacity: 1;
     animation: fallIn 1s linear forwards,
